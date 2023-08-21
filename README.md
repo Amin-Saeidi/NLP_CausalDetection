@@ -37,7 +37,7 @@ We implement 4 models to detect cause-effect relations and due to their base cor
 
 It is needed to note that the criteria provided for evaluating the methods are given in the notebooks themselves, however, mostly what is declared as accuracy is the accuracy of correctly predicting the tokens.
 
-#### (1) Bert - notebook: [Cause_Effect_Detection_BERT](https://github.com/NLP-Final-Projects/causal-discovery/blob/main/src/notebook/Cause_Effect_Detection_BERT.ipynb) 
+#### (1) Bert - notebook: [Cause_Effect_Detection_BERT](https://github.com/Amin-Saeidi/NLP_CausalDetection/blob/main/src/notebook/Cause_Effect_Detection_BERT.ipynb) 
 This model will focus on unmarked causality, and only will specifiy the cause and effect.
 
 **Summary of model:**
@@ -60,7 +60,7 @@ I- EFFECT: the middle word of cause
 
 ![sample output:](Images/bert_result_example.png)
 
-#### (2) Fasrttext - notebook: [Cause_Effect_Detection_Fasttext](https://github.com/NLP-Final-Projects/causal-discovery/blob/main/src/notebook/Cause_Effect_Detection_Fasttext.ipynb)
+#### (2) Fasrttext - notebook: [Cause_Effect_Detection_Fasttext](https://github.com/Amin-Saeidi/NLP_CausalDetection/blob/main/src/notebook/Cause_Effect_Detection_Fasttext.ipynb)
 This model will focus on marked causality, and only will specifiy the cause and effect and also marker.
 
 **Summary of model:**
@@ -79,7 +79,7 @@ m: marker
 
 ![sample output:](Images/fasttext_result_example.png)
 
-#### (3) NER - notebook: [Cause_Effect_Detection_NER](https://github.com/NLP-Final-Projects/causal-discovery/blob/main/src/notebook/Cause_Effect_Detection_NER.ipynb)
+#### (3) NER - notebook: [Cause_Effect_Detection_NER](https://github.com/Amin-Saeidi/NLP_CausalDetection/blob/main/src/notebook/Cause_Effect_Detection_NER.ipynb)
 This model will focus on marked causality, and only will specifiy the cause and effect and also marker.
 
 **Summary of model:**
@@ -98,7 +98,7 @@ m: marker
 
 ![sample output:](Images/ner_result_example.png)
 
-#### (4) Extractive Q&A - notebook: [Cause_Effect_Detection_With Question-Answering Model](https://github.com/NLP-Final-Projects/causal-discovery/blob/main/QA/QA_notebook.ipynb)
+#### (4) Extractive Q&A - notebook: [Cause_Effect_Detection_With Question-Answering Model](https://github.com/Amin-Saeidi/NLP_CausalDetection/blob/main/QA/QA_notebook.ipynb)
 
 **Summary of model:**
 
