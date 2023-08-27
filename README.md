@@ -60,7 +60,7 @@ I- EFFECT: the middle word of cause
 
 ![sample output:](Images/bert_result_example.png)
 
-#### (2) Fasrttext - notebook: [Cause_Effect_Detection_Fasttext](https://github.com/Amin-Saeidi/NLP_CausalDetection/blob/main/src/notebook/Cause_Effect_Detection_Fasttext.ipynb)
+#### (2) Fasttext - notebook: [Cause_Effect_Detection_Fasttext](https://github.com/Amin-Saeidi/NLP_CausalDetection/blob/main/src/notebook/Cause_Effect_Detection_Fasttext.ipynb)
 This model will focus on marked causality, and only will specifiy the cause and effect and also marker.
 
 **Summary of model:**
